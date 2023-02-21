@@ -25,4 +25,3 @@ list1 = [34,54,23,12]
 list2 = ['banana','oranges','apple','grapes']
 del list1[2]
 print(list1)
-
